@@ -1,0 +1,11 @@
+package numericalComputationAndExpression_1;
+
+public class escapeSequence {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Rose are red,\n\tViolets are blue,\n" + "Sugar is sweet,\n\tBut I have \"commitment issues\",\n\t" + "So I'd rather just be freinds\n\tAt this point in our " + "relationship.");
+
+	}
+
+}
